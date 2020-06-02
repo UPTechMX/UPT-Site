@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Geoportal and UPT
 subtitle: Organize, disseminate and analyze spatial data in one single platform
 ---
@@ -9,10 +9,10 @@ Our geoportal is a web application that can be used to store, share, find and ac
 
 [Try the tool!](#)
 
-### Urban Performance
+### Urban Performance (UP)
 To analyze possible future scenarios, we created Urban Performance. A tool that, through the analysis of geospatial data, forecasts the city’s future performance and helps us in choosing the best path forward.
 
-### Urban Hotspots
+### Urban Hotspots (UH)
 Urban Hotspots is a web application that uses multicriteria analysis techniques for agile spatial analysis. With SuitAbility users can create heat maps of access to urban services within minutes or find optimal locations for a specific activity within a city.
 
 ## User Manuals

@@ -12,11 +12,13 @@ author: UPTechnology
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About UP: "aboutup"
+  About UH: "aboutuh"
   Release Notes: "releasenotes"
   Git: "https://github.com/users/UPTechMX/projects/1"
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
-  UP Technology: "https://up.technology/"
+  About Us: "aboutus"
 
 # --- Logo --- #
 
