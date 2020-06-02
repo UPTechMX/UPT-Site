@@ -13,9 +13,9 @@ author: UPTechnology
 
 navbar-links:
   Release Notes: "releasenotes"
-  Repos:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Git: "https://github.com/users/UPTechMX/projects/1"
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
   UP Technology: "https://up.technology/"
 
 # --- Logo --- #

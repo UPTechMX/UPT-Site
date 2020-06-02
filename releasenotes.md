@@ -92,7 +92,6 @@ No adjustments were implemented
 ### Future Improvements & Features {#future-improvements-up}
 - Autoselection for subdependencies for indicators.
 - Automatic unselection of dependencies/subdependencies when unselecting an indicator.
-- Improvements for the table tab of results.
 - Change fieldset elements into accordion elements and adjust the user manual accordingly.
 
 ### Known Issues {#known-issues-up}
@@ -101,7 +100,10 @@ No adjustments were implemented
 ## Urban Hotspots
 
 ### New Features {#new-features-uh}
-- N/A
+- Users can now reverse the scale for the index values, making it show the lowest values as blue and the highest as red.
+- Users can now switch between a fixed and a free scale:
+    - Fixed scale: This is active by default, and goes from 0 to 100.
+    - Free scale: The tool will set the lowest and highest values from the analysis results and use them as the minimum and maximum values (for example, from 20 to 63).
 
 ### Bugfixes {#bugfixes-uh}
 - Bugfixes on frontend and backend.
@@ -121,8 +123,7 @@ No adjustments were implemented
 - Both user manual and technical report omit references to the `observe` method.
 
 ### Future Improvements & Features {#future-improvements-uh}
-- Add an option to allow users to invert the index values.
-- Add an option to enable/disable free range on index values
+- N/A
 
 ### Known Issues {#known-issues-uh}
 - Main dialog sometimes does not resize properly with the accordion functionality.
