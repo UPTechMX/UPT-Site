@@ -1,6 +1,7 @@
 ---
 title: Release Notes
 comments: false
+layout: default
 ---
 
 
