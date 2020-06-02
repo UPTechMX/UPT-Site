@@ -4,7 +4,7 @@ comments: false
 layout: default
 ---
 
-# Urban Hotspots
+# About Us
 En Urban Planning Technology desarrollamos soluciones sencillas a problemas complejos, que contribuyan al desarrollo de nuestras sociedades, mediante el uso de diversas herramientas tecnológicas.
 
 Las ciudades, empresas, sistemas energéticos, instituciones, edificaciones y organizaciones, son sistemas complejos, que requieren para su estudio tomar en cuenta variables de diferentes índoles y áreas del conocimiento. Entender sus relaciones y su comportamiento a futuro es parte esencial de cualquier decisión a tomar. En Up.Technology tenemos el objetivo de facilitar el estudio de estos sistemas al generar herramientas que permitan a nuestros clientes visualizar claramente la información, escenarios y respuestas que están buscando.
