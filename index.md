@@ -35,7 +35,8 @@ User manuals explain all functionalities in the UPT (Urban Performance and Urban
 - [Urban Hotspots User Manual](https://docs.google.com/presentation/d/1p9jV-2iazFLt008jcqiKdYFSwcVG8X3584qz-TTIQn8/edit?usp=sharing)
 
 ## Technical Reports
-Lorem minim esse non quis duis do irure ipsum reprehenderit pariatur dolor culpa velit. Pariatur consectetur proident eu tempor aute nulla sunt. Sint ut pariatur nisi nulla laborum irure mollit Lorem qui aliqua dolore.
+Technical reports include a comprehensive theoretical base for the tools, as well as a detailed description of methods, data inputs, required formats, and outputs. 
+
 - [Urban Performance Technical Report](https://docs.google.com/document/d/1s7rbMYS9IeCAe0-czNFMmqcvKsPsEwMZ9UyeD8zutj4/edit?usp=sharing)
 - [Urban Hotspots Technical Report](https://docs.google.com/document/d/1ubap76t2L5B_Qe3e2VJaShzqd1lbPlDX2Tm1dly6R-c/edit?usp=sharing)
 
