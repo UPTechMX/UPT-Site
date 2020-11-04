@@ -4,12 +4,12 @@ title: Geoportal and UPT
 subtitle: Organize, disseminate and analyze spatial data in one single platform
 ---
 
-![image](/assets/img/geoportal.png)
-
 ## About
 Our geoportal is a web application that can be used to store, share, find, and access geospatial data. The tool is based on Oskari and can be used to capture or upload spatial data. Both tools, Urban Hotspots and Urban Performance run inside the Geoportal as plug-ins. And can be used to perform analysis right in the Geoportal.
 
 [Try the tool!](https://geoportal.up.technology/)
+
+![image](/assets/img/geoportal.png)
 
 ### Urban Performance (UP)
 To analyze possible future scenarios, we created Urban Performance. A tool that, through the analysis of geospatial data, forecasts the city’s future performance and helps us in choosing the best path forward.
