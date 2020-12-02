@@ -19,17 +19,17 @@ The brochure explains the main functionalities of the tool in a brief one-pager 
 - [Urban Hotspots Brochure](https://drive.google.com/file/d/16OmI1J_4S5WWDMwVxHK1ilZIXkwv8PHu/view?usp=sharing)
 
 ## Case studies
-Case studies include a selection of applications that we have performed with the Urban Hotspots. 
+The case studies include a selection of applications that we have performed with the Urban Hotspots tool. 
 
 - [Urban Hotspots Case Studies](https://drive.google.com/file/d/1UgXzJrx_pgKKpBNftKz_19C4rrfF3Qd3/view?usp=sharing)
 
-## User Manuals
-User manuals explain all functionalities in the UPT (Urban Hotspots) in order to run evaluations.
+## User Manual
+The user manual explains all functionalities in Urban Hotspots.
 
 - [Urban Hotspots User Manual](https://drive.google.com/file/d/1NoduecJ2_4bW6yeaqxpMBUgwwZThwpLJ/view?usp=sharing)
 
-## Technical Reports
-Technical reports include a comprehensive theoretical base for the Urban Hotspots tool, as well as a detailed description of methods, data inputs, required formats, and outputs. 
+## Technical Report
+The technical report includes a comprehensive theoretical base for the Urban Hotspots tool, as well as a detailed description of methods, data inputs, required formats, and outputs. 
 
 - [Urban Hotspots Technical Report](https://drive.google.com/file/d/102brW9lKBa_mfZeJhGyeGqfccL2Kvl-h/view?usp=sharing)
 
